@@ -94,6 +94,7 @@ Milestone 1 cw721-ics721 smart contract
 - Estimated duration 1 month
 - FTE: 2
 - Costs: 15k
+
 | Number      | Deliverable | Specification |
 | ----------- | ----------- | ---- |
 | 0a.      | License       |  MIT |
@@ -106,6 +107,7 @@ Milestone 2 ibc relayer
 - Estimated duration: 2 weeks
 - FTE: 2
 - 10k
+
 | Number      | Deliverable | Specification |
 | ----------- | ----------- | ---- |
 | 0a.      | License       |  MIT |
@@ -118,6 +120,7 @@ Milestone 3 keplr wallet integration
 - Estimated duration: 2 weeks
 - FTE: 1
 - 5k
+
 | Number      | Deliverable | Specification |
 | ----------- | ----------- | ---- |
 | 0a.      | License       |  MIT |
