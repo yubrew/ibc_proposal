@@ -64,11 +64,13 @@ Wormhole is an example bridge that works for CW20 tokens like Luna and UST, but 
 We are not aware of any other projects addressing multichain transferring of NFTs.
 ### Team Members
 Shane
+
 John Yu - john@terramoons.xyz
 
 
 ### Contact
 Shane
+
 John Yu - john@terramoons.xyz
 
 ### Legal Structure
